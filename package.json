@@ -1,0 +1,18 @@
+{
+  "name": "jk",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "devStart":"nodemon server.js"
+  },
+  "author": "amrit",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "expressjs": "^1.0.1"
+  }
+}
